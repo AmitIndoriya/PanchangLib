@@ -1,0 +1,3 @@
+rootProject.name='PanchangApp'
+include ':app'
+include ':panchang'
