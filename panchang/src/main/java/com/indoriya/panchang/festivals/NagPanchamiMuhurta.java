@@ -5,11 +5,9 @@
 
 package com.indoriya.panchang.festivals;
 
-import com.indoriya.panchang.AscTable;
 import com.indoriya.panchang.Masa;
 import com.indoriya.panchang.Muhurta;
 import com.indoriya.panchang.Place;
-import com.indoriya.panchang.util.Util;
 
 public class NagPanchamiMuhurta {
     public NagPanchamiMuhurta() {
